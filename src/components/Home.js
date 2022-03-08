@@ -1,5 +1,5 @@
 import React from 'react'
-import styleed from 'styled-components'
+import styled from 'styled-components'
 import Section from './Section'
 
 function Home() {
